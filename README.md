@@ -5,7 +5,7 @@
   <a href="https://discord.gg" target="_blank"><img src="https://img.shields.io/badge/seokjw0727-181717?style=plastic&logo=Github&logoColor=181717"/></a>
 </p>
 
-프로그래밍을 공부하는 평범한 학생입니다 ♥
+* 프로그래밍을 공부하는 평범한 학생입니다 ♥
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokjw0727&show_icons=true&theme=radical)
 
