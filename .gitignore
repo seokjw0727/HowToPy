@@ -1,6 +1,3 @@
-importme.py
+ignoredfile.py
 
-test.py
-
-# do not git this!
-# .gitignore
+# 원하는 파일, 폴더를 지정하여 깃을 불가능하게 만든다.
