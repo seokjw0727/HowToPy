@@ -7,6 +7,6 @@ Re:제로부터 시작하는 파이썬 복습.
 </p>
 
 <p align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokjw0727&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokjw0727&show_icons=true&theme=radical)
 </p>
 
