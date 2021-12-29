@@ -8,6 +8,8 @@ Re:제로부터 시작하는 파이썬 복습.
 
 지식인에서 활동하고 있습니다.
 많은 사랑과 관심 부탁드립니다.
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seokjw0727&show_icons=true&theme=radical)
 
 
