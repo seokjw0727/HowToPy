@@ -91,3 +91,29 @@
 #     print('0')     # 0을 출력한다.
 
 
+
+# pos_x = int(input())
+
+# pos_y = int(input())
+
+# if (pos_x >= 0 and pos_y >= 0):
+#     print('1')
+# if (pos_x <= 0 and pos_y <= 0):
+#     print('3')
+# if (pos_x <= 0 and pos_y >= 0):
+#     print('2')
+# if (pos_x >= 0 and pos_y <= 0): 
+#     print('4')
+
+
+H, M = map(int, input().split())
+
+if M < 45 :	
+    if H == 0 :	
+        H = 23
+        M += 60
+    else :	
+        H -= 1	
+        M += 60
+        
+print(H, M-45)	
