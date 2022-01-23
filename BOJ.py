@@ -106,14 +106,34 @@
 #     print('4')
 
 
-H, M = map(int, input().split())
+# H, M = map(int, input().split())
 
-if M < 45 :	
-    if H == 0 :	
-        H = 23
-        M += 60
-    else :	
-        H -= 1	
-        M += 60
+# if M < 45 :	
+#     if H == 0 :	
+#         H = 23
+#         M += 60
+#     else :	
+#         H -= 1	
+#         M += 60
         
-print(H, M-45)	
+# print(H, M-45)	
+
+
+
+N = int(input())
+
+for i in range(1, 10):           # i 를 사용하여, 반복 가능한 요소를 하나씩 사용하며, 변수에 선언함.
+    print(N, '*', i, '=', N*i)
+
+
+
+def 지우기():
+    for i in range(1, 101):
+        print('')
+        print('콘솔을 청소했습니다.')
+
+
+
+
+
+
