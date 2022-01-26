@@ -135,10 +135,15 @@
 
 
 
-Id = str(input())
+# print(input() + '??!')    # print의 매개변수에 입력을 받고, ??! 이라는 문자열을 더하여 출력한다.
 
-if Id == 'joonas':
-    print('joonas??!')
+
+
+y = int(input())
+
+print(y - 543);
+
+
 
 
 
