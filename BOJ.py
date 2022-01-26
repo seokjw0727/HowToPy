@@ -127,11 +127,22 @@
 
 
 
-T = int(input())        # T 라는 변수를 정수로 형태로 받는다.
+# T = int(input())        # T 라는 변수를 정수로 형태로 받는다.
 
-for _ in range(T):     # 
-    A,B = map(int, input().split())
-    print(A+B)
+# for _ in range(T):     # 
+#     A,B = map(int, input().split())
+#     print(A+B)
+
+
+
+Id = str(input())
+
+if Id == 'joonas':
+    print('joonas??!')
+
+
+
+
 
 
 
