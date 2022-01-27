@@ -139,12 +139,13 @@
 
 
 
-y = int(input())
+# y = int(input())    # y를 정수형태로 입력받음
 
-print(y - 543);
+# print(y - 543);     # y에 543을 뺀 값을 출력함.
 
 
 
+ 
 
 
 
