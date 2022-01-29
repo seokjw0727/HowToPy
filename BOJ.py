@@ -160,24 +160,47 @@
 
 
 
-songs, avg =  map(int, input().split())
-
-print(round(songs/avg))
-
+# a,b = map(int, input().split())
+# print(a*(b-1)+1)    # 평균값에 1을 빼고, a를 곱해서 다시 1을 더하여 표현한다.
 
 
 
 
+# A = int(input())
+# B = int(input())
+
+# print(A + B)
+
+
+# print('.  .   .')
+# print('|  | _ | _. _ ._ _  _')
+# print('|/\|(/.|(_.(_)[ | )(/.')
 
 
 
 
+# a = int(input())
+# b = int(input())
+# c = int(input())
+# d = int(input())
+# e = int(input())
+
+# print(a + b + c + d + e)
+
+
+# A, B = map(int, input().split());print(A + B)    # 처음으로 시작하는 극한의 최적화 코딩
+
+
+# A = int(input()); print(A * 4);
+
+# print('29\n'); print('seokjw0727');
 
 
 
 
+# r1, s = map(int, input().split())
 
-
+# print(2*s-r1)
 
 
 
