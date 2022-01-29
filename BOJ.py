@@ -144,8 +144,34 @@
 # print(y - 543);     # y에 543을 뺀 값을 출력함.
 
 
-
  
+# n, m = map(int, input().split())
+
+# print(n//m)     # n 을 m으로 나눈다.
+# print(n%m)      # n 을 m으로 나눈 나머지를 구한다.
+
+
+# A = int(input())
+# B = int(input())
+
+# print(A + B)
+# print(A - B)
+# print(A * B)
+
+
+
+songs, avg =  map(int, input().split())
+
+print(round(songs/avg))
+
+
+
+
+
+
+
+
+
 
 
 
