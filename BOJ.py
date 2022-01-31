@@ -204,4 +204,17 @@
 
 
 
+# import sys
+
+# ab12 = int(input())
+# for i in range(ab12):
+#     A, B = map(int, sys.stdin.readline().split())
+#     print(A + B)
+
+
+count = int(input())
+
+for i in range(count):
+    print(i+1)
+        
 
