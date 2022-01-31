@@ -243,9 +243,56 @@
 #     print(f'Case #{i+1}: {A} + {B} = {result}')
 
 
-stars = int(input())
+# stars = int(input())
 
-for i in range(stars):
-    print('*' * (stars+1))
+# for i in range(1, (stars+1)):
+#     print('*' * i)  
+
+
+
+# stars = int(input())
+
+# for i in range(1, (stars+1)):
+#     print(' ' * (stars - i ) + '*' * i)  
+
+
+# A, B = map(int, input().split()); print(A + B)
+
+# A, B, C = map(int, input().split()); print(A + B + C)
+
+
+# print('고려대학교')
+
+# A, B = map(int, input().split())
+
+# print(A * B)
+
+# N, K = map(int, input().split())
+# A, B = map(int, input().split())
+
+# print('비와이')
+
+
+# N = int(input())
+
+# print(int(N*0.78), int(N*0.8 + (N*0.2*0.78)))
+
+
+
+# N, X = map(int, input().split())
+# A = list(map(int, input().split()))
+
+# for i in range(N):
+#     if A[i] < X:
+#         print(A[i], end = ' ')
+
+
+
+while True:
+    a, b = map(int, input().split())
+    if a == 0 and b == 0:
+        break
+    print(a+b)
+    
 
 
