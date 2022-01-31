@@ -212,9 +212,40 @@
 #     print(A + B)
 
 
-count = int(input())
+# count = int(input())
 
-for i in range(count):
-    print(i+1)
-        
+# for i in range(count):     # i를 count 변수만큼 반복함. i의 기본값은 0
+#     print(i+1)
+
+
+
+# count = int(input())       # 위의 문제의 반대로 출력하는 코드이다.
+
+# for i in range(count):
+#     print(count-i)
+
+
+
+# count = int(input())
+
+# for i in range(count):
+#     A, B = map(int, input().split())
+#     result = (A + B)
+#     print(f'Case #{i+1}: {result}')
+
+
+
+# count = int(input())
+
+# for i in range(count):
+#     A, B = map(int, input().split())
+#     result = (A + B)
+#     print(f'Case #{i+1}: {A} + {B} = {result}')
+
+
+stars = int(input())
+
+for i in range(stars):
+    print('*' * (stars+1))
+
 
