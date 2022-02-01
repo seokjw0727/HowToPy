@@ -288,11 +288,58 @@
 
 
 
-while True:
-    a, b = map(int, input().split())
-    if a == 0 and b == 0:
-        break
-    print(a+b)
+# while True:
+#     a, b = map(int, input().split())
+#     if a == 0 and b == 0:
+#         break
+#     print(a+b)
     
+
+
+
+
+
+# while True:
+#     try:
+#         A, B = map(int, input().split())
+#         print(A+B)
+#     except:
+#         break
+
+
+
+
+
+# n = int(input())
+# num = n
+# count = 0
+
+# while True:
+#     a = num//10
+#     b = num % 10
+#     c = (a + b) % 10
+#     num = (b * 10) + c
+
+#     count = count + 1 
+#     if(num == n):
+#         break
+
+# print(count)
+
+
+# a = int(input())
+# b = list(map(int, input().split()))
+
+# print('{} {}'.format(min(b), max(b)))
+
+num_list = []
+for i in range(9):
+    num_list.append(int(input()))
+    
+print(max(num_list))
+print(num_list.index(max(num_list))+1)
+
+
+
 
 
