@@ -339,7 +339,41 @@
 # print(max(num_list))
 # print(num_list.index(max(num_list))+1)
 
+# a = int(input())
+# b = int(input())
+# c = int(input())
 
+# result = list(str(a * b * c))
+# for i in range(10):
+#     print(result.count(str(i)))
+
+
+
+
+# a = int(input())
+# b = int(input())
+
+# result = (a * b)
+
+# print(result.)
+
+
+
+# arr = []
+# for i in range(10):
+#     a = int (input())
+#     arr.append(a % 42)
+
+# arr = set(arr)
+# print(len(arr))
+
+
+
+
+import color_in_text
+
+
+print(colors.RED + 'test' + colors.RESET)
 
 
 
